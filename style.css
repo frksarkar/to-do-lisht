@@ -43,7 +43,7 @@ input[type="text"]:focus {
 }
 
 .input_task * {
-  margin: 10px;
+  margin: 10px 6px;
   padding: 5px;
 }
 
@@ -105,6 +105,10 @@ input[type="text"]:focus {
   .input_task {
     width: 670px;
   }
+  
+ .input_task * {
+  margin: 10px;
+}
 
   #task_box {
     width: 700px;
