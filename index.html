@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>To-Do List</title>
+  </head>
+
+  <body>
+    <div id="containar">
+      <h1>TO-DO APP</h1>
+      <p>my fast javaScript project</p>
+      <div class="input_task">
+        <h4>add new task</h4>
+        <input id="input_text" type="text" placeholder="write something ..." />
+        <button class="add_task_btn">add task</button>
+      </div>
+      <div id="task_box">
+        <div class="task incomplete_task">
+          <h2>Incomplete Tasks</h2>
+          <hr />
+          <div>
+            <input type="checkbox" name="" class="checkbox" />
+            <label class="label" for="">Task Name</label>
+            <input class="remove-btn" type="button" value="Remove" />
+          </div>
+          <div>
+            <input type="checkbox" name="" class="checkbox" />
+            <label class="label" for=""
+              >Task Name Lorem ipsum dolor sit amet consectetur adipisicing
+              elit. Corrupti, dicta!</label
+            >
+            <input class="remove-btn" type="button" value="Remove" />
+          </div>
+        </div>
+        <div class="task complete_task">
+          <h2>Completed Tasks</h2>
+          <hr />
+          <div>
+            <label class="label" for="">Task Name</label>
+            <input class="delete" type="button" value="Delete" />
+          </div>
+          <div>
+            <label class="label" for=""
+              >Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus,
+              amet?</label
+            >
+            <input class="delete" type="button" value="Delete" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./test.js"></script>
+  </body>
+</html>
