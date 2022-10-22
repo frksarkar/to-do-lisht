@@ -28,6 +28,7 @@ function addTask() {
 
 function addCompleteTask() {
   let task = this.nextElementSibling;
+  task.style.textDecoration = "line-through";
   let element = document.createElement("div");
   let dbtn = document.createElement("input");
   dbtn.className = "delete";
