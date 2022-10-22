@@ -73,6 +73,10 @@ input[type="text"]:focus {
   padding: 0 10px;
 }
 
+.complete_task .label {
+  text-decoration: line-through;
+}
+
 .incomplete_task > div {
   position: relative;
 }
