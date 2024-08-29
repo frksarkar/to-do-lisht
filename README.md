@@ -38,3 +38,13 @@ A simple Todo application built with HTML, CSS, and JavaScript. This app allows 
 2. Use the input field to add new tasks.
 3. Click on the "Add Task" button to add the task to the list.
 4. Click on a task to mark it as completed or delete it.
+
+## File Structure
+
+   ```graphql
+   todo-app/
+   │
+   ├── index.html         # Main HTML file
+   ├── styles.css         # CSS file for styling
+   └── script.js          # JavaScript file for functionality
+
