@@ -24,12 +24,14 @@ A simple Todo application built with HTML, CSS, and JavaScript. This app allows 
 
    ```bash
    git clone https://github.com/yourusername/todo-app.git
+   ```
    
 2. Navigate to the project directory:
 
    ```bash
    cd todo-app
-
+   ```
+   
 3. Open the index.html file in your preferred web browser to view the app.
 
 ## Usage
@@ -47,4 +49,20 @@ A simple Todo application built with HTML, CSS, and JavaScript. This app allows 
    ├── index.html         # Main HTML file
    ├── styles.css         # CSS file for styling
    └── script.js          # JavaScript file for functionality
+   ```
+
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature/YourFeature`).
+6. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
