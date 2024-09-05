@@ -1,5 +1,4 @@
-live demo link
-https://frksarkar.github.io/to-do-lisht/
+live demo link [click here](https://frksarkar.github.io/to-do-lisht/)
 
 # Todo App
 
