@@ -1,8 +1,8 @@
-live demo link [click here](https://frksarkar.github.io/to-do-lisht/)
-
 # Todo App
 
 A simple Todo application built with HTML, CSS, and JavaScript. This app allows users to add, view, and delete tasks, providing a straightforward way to manage their to-do list.
+
+live demo link [click here](https://frksarkar.github.io/to-do-lisht/)
 
 ## Features
 
